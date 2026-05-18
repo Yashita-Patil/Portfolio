@@ -1,16 +1,118 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive developer portfolio website built using **React.js**.
+This portfolio showcases my projects, technical skills, certifications, education, and experience through an interactive and visually appealing UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Responsive modern UI design
+* Smooth scrolling navigation
+* Animated sections with fade-in effects
+* Project showcase section
+* Skills and certifications display
+* Contact form section
+* Professional developer portfolio layout
+* Interactive hover effects and transitions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+
+### Additional Concepts
+
+* Responsive Web Design
+* Component-Based Architecture
+* React Hooks
+* Smooth Animations
+* Dynamic Rendering
+
+---
+
+## Projects Included
+
+### Elavare – AI Career Assistant
+
+An AI-powered career guidance platform with interview preparation and onboarding modules.
+
+### Crop Disease Detection System
+
+A machine learning-based application for detecting crop diseases using image processing techniques.
+
+### Carbon Footprint Scanner
+
+A sustainability-focused web app that estimates users’ carbon footprint based on daily activities.
+
+---
+
+## Installation & Setup
+
+### Clone Repository
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+```
+
+### Navigate to Project Folder
+
+```bash
+cd portfolio
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## Folder Structure
+
+```text
+portfolio/
+│
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── assets/
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## Future Improvements
+
+* Add dark/light mode toggle
+* Integrate backend contact form
+* Add downloadable resume
+* Deploy portfolio online
+* Add project live demo links
+
+---
+
+## Author
+
+**Yashita Patil**
+
+* GitHub: [https://github.com/your-username](https://github.com/Yashita-Patil)
+* LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/yashitapatil)
+
+---
